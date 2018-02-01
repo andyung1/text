@@ -1,1 +1,9 @@
+red
 yellow
+pink
+green
+purple
+orange
+blue
+
+these are colours are the rainbow
